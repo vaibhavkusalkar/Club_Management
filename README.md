@@ -1,16 +1,57 @@
-# ace
+# Club Management App
+ A Club Management App. 
+ 
+ Star⭐ the repo if you like what you see😉.
+ ### Built using Flutter 💙
 
-Team Management App for ACE Club.
+## Screenshots
 
-## Getting Started
+![App Screenshots](https://github.com/vaibhavkusalkar/Club_Management/blob/67fb024bf37881fc82b97295234a3d98aa85605f/mockups/Mockup_Student.png)
+## Functionality
+* Splash Screen (Initial)
+* Sign In/Sign Up
+* Home Page
+* Meetings Page
+* Scan QR Page
 
-This project is a starting point for a Flutter application.
+## Admin Exclusive Features
+* View & Schedule Meetings
+* Generate QR for Attendance
+* See Attendance (Present, Absent, Percentage)
+    
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+
+## Project Installation
+Follow the steps properly -
+
+- Flutter SDK Must be installed properly.
+
+- Clone Repository
+```bash
+  gh repo clone vaibhavkusalkar/Club_Management
+```
+
+- Get into the Project folder (i.e Club Club_Management)
+```bash
+  cd Club_Management
+```
+
+- Run
+```bash
+  flutter clean
+```
+```bash
+  flutter pub get
+```
+
+The App is ready to use !
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
